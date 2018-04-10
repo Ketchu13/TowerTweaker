@@ -1,0 +1,11 @@
+F:\3D MODELS\CR-10\TempByLayers\TempByLayers\TempByLayers\bin\Release\TempByLayers.exe.config
+F:\3D MODELS\CR-10\TempByLayers\TempByLayers\TempByLayers\bin\Release\TempByLayers.exe
+F:\3D MODELS\CR-10\TempByLayers\TempByLayers\TempByLayers\bin\Release\TempByLayers.xml
+F:\3D MODELS\CR-10\TempByLayers\TempByLayers\TempByLayers\obj\Release\TempByLayers.Form1.resources
+F:\3D MODELS\CR-10\TempByLayers\TempByLayers\TempByLayers\obj\Release\TempByLayers.Resources.resources
+F:\3D MODELS\CR-10\TempByLayers\TempByLayers\TempByLayers\obj\Release\TempByLayers.vbproj.GenerateResource.Cache
+F:\3D MODELS\CR-10\TempByLayers\TempByLayers\TempByLayers\obj\Release\TempByLayers.vbproj.CoreCompileInputs.cache
+F:\3D MODELS\CR-10\TempByLayers\TempByLayers\TempByLayers\obj\Release\TempByLayers.exe
+F:\3D MODELS\CR-10\TempByLayers\TempByLayers\TempByLayers\obj\Release\TempByLayers.xml
+F:\3D MODELS\CR-10\TempByLayers\TempByLayers\TempByLayers\obj\Release\TempByLayers.vbprojResolveAssemblyReference.cache
+F:\3D MODELS\CR-10\TempByLayers\TempByLayers\TempByLayers\obj\Release\TempByLayers.Form2.resources
